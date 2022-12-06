@@ -1,0 +1,42 @@
+#footer-wrap {
+    background-color: #0D0D0D;
+}
+
+.search-wrap > hr {
+    display: none;
+}
+
+.card-info-data > a:nth-child(2) {
+    display: none !important;
+}
+
+.card-info-data > a:nth-child(3) {
+    display: none !important;
+}
+
+/*.aplayer-info {
+    background-color: #181A1B;
+}
+
+.aplayer {
+    background-color: rgb(24, 26, 27) !important;
+}
+
+.aplayer .aplayer-miniswitcher {
+    background-color: #26292B !important;
+}
+
+.aplayer-body {
+    border-top-right-radius: 5px !important;
+    border-bottom-right-radius: 5px !important;
+}
+
+.aplayer .aplayer-list ol li:hover {
+    background: #212425 !important;
+}
+
+.aplayer-list-light {
+    background: #212425 !important;
+    color: #b9b3aa !important;
+}
+*/
